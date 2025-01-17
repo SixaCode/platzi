@@ -1,0 +1,2 @@
+[X] Create a course
+[X] Create more courses
